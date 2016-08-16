@@ -89,14 +89,10 @@
         <div class="footer-above">
             <div class="container">
                 <div class="row">
-                    <div class="footer-col col-md-4">
-                        <h3>Location</h3>
-                        <p>3481 Melrose Place
-                            <br>Beverly Hills, CA 90210</p>
-                    </div>
+                    
                     
                     <div class="footer-col col-md-4">
-                        <h3>Acerca de CREDIACCESO/h3>
+                        <h3>Acerca de CREDIACCESO/<h3>
                         <p>CREDIACCESO es un comparador para adquirir el mejor crédito disponible para un auto usado.<a href="http://omarbade.xyz">GRUPO BADE</a>.</p>
                     </div>
                 </div>
