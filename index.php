@@ -39,7 +39,7 @@
             <!-- Brand and toggle get grouped for better mobile display -->
             <div class="navbar-header page-scroll">
             
-                <a class="navbar-brand" href="#page-top">CREDIACCESO</a>
+                <a class="navbar-brand" href="#page-top">EN CONSTRUCCIÓN</a>
             </div>
 
      
@@ -55,7 +55,7 @@
                     <div class="intro-text">
                         <span class="name">CREDIACCESO</span>
                         <hr class="star-light">
-                        <span class="skills">El mejor crédito para que adquieras un auto usado, !EN DESARROLLO!</span>
+                        <span class="skills">El mejor crédito para que adquieras un auto usado, !EN CONSTRUCCIÓN!</span>
                     </div>
                 </div>
             </div>
@@ -70,7 +70,7 @@
             <div class="container">
                 <div class="row">
                 <div class="col-lg-12">
-       <h3>Acerca de CREDIACCESO (EN DESARROLLO)<h3>
+       <h3>Acerca de CREDIACCESO: (Sitio en construcción)<h3>
                         <p>CREDIACCESO es un comparador para adquirir el mejor crédito disponible para un auto usado.<a href="http://omarbade.xyz">GRUPO BADE</a>.</p>               
 Contacto:
 <a href="mailto:oms.bade@gmail.com" target="_top">ENVIAR MAIL</a>
