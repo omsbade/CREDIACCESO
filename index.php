@@ -106,10 +106,10 @@
             <div class="container">
                 <div class="row">
                 <div class="col-lg-12">
-                        <p>
+                      
 Contacto:
 <a href="mailto:oms.bade@gmail.com" target="_top">ENVIAR MAIL</a>
-</p>
+
                     </div>
                     <div class="col-lg-12">
                         Copyright &copy; CREDIACCESO 2016
