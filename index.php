@@ -39,7 +39,7 @@
             <!-- Brand and toggle get grouped for better mobile display -->
             <div class="navbar-header page-scroll">
             
-                <a class="navbar-brand" href="#page-top">EN CONSTRUCCIÓN</a>
+                <a class="navbar-brand" href="#SITIO EN CONSTRUCCION">EN CONSTRUCCIÓN</a>
             </div>
 
      
