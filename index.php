@@ -55,7 +55,7 @@
                     <div class="intro-text">
                         <span class="name">CREDIACCESO</span>
                         <hr class="star-light">
-                        <span class="skills">¡El mejor crédito para que adquieras un auto usado!</span>
+                        <span class="skills">El mejor crédito para que adquieras un auto usado, !EN DESARROLLO!</span>
                     </div>
                 </div>
             </div>
@@ -70,7 +70,7 @@
             <div class="container">
                 <div class="row">
                 <div class="col-lg-12">
-       <h3>Acerca de CREDIACCESO<h3>
+       <h3>Acerca de CREDIACCESO (EN DESARROLLO)<h3>
                         <p>CREDIACCESO es un comparador para adquirir el mejor crédito disponible para un auto usado.<a href="http://omarbade.xyz">GRUPO BADE</a>.</p>               
 Contacto:
 <a href="mailto:oms.bade@gmail.com" target="_top">ENVIAR MAIL</a>
