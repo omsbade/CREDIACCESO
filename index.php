@@ -70,7 +70,7 @@
             <div class="container">
                 <div class="row">
                 <div class="col-lg-12">
-       <h3>Acerca de CREDIACCESO: (Sitio en construcción)<h3>
+       <h3>Acerca de CREDIACCESO: <h3>
                         <p>CREDIACCESO es un comparador para adquirir el mejor crédito disponible para un auto usado.<a href="http://omarbade.xyz">GRUPO BADE</a>.</p>               
 Contacto:
 <a href="mailto:oms.bade@gmail.com" target="_top">ENVIAR MAIL</a>
